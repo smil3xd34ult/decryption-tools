@@ -1,9 +1,5 @@
-# decryption-tools
- A beginner-friendly Python tool that decrypts messages encrypted using a simple substitution cipher with a key
-
 # Simple Python Decryption Tool
-
-This is a beginner-friendly Python script to decrypt messages that were encrypted using a simple ASCII-based cipher with a key. It’s especially useful for learning cryptography basics and solving CTF challenges like picoCTF.
+This is a beginner-friendly Python script to decrypt messages that were encrypted using a simple ASCII-based cipher with a key. It’s especially useful for learning cryptography basics.
 
 ## Features
 
